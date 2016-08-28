@@ -1,3 +1,3 @@
 [submodule "cpr"]
-	path = cpr
+	path = client/cpr
 	url = https://www.github.com/whoshuu/cpr.git
