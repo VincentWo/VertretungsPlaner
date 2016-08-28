@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/StundenPlaner.dir/stunden_planer.cpp.o  -o StundenPlaner -rdynamic ../lib/libcpr.a ../lib/libcurl.so -lidn -llber -lldap -ldl -lssl -lcrypto -lz -lssh2 -Wl,-rpath,/home/vincent/coding/stundenplan/lib 
