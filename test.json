@@ -1,0 +1,17 @@
+{
+	"2016-10-10" :
+		{
+			"message_of_the_day" : "Für die Jahrgangsstufen 5-9 fällt der Unterricht nach der 4. Stunde aus (hitzefrei)",
+			"substitutions" : 
+				[
+					{
+						"type" : "Statt-Vertretung",
+						"lessons" : [1],
+						"room" : 201,
+						"subject" : "KU",
+						"info" : "Aufgaben"
+					}
+				]
+		},
+	"2016-10-10": {}
+}
