@@ -1,5 +1,3 @@
-cmake_minimum_required(VERSION 2.6)
-project(StundenPlaner)
 add_executable(StundenPlaner stunden_planer.cpp)
 
 add_subdirectory(cpr)
